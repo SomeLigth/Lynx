@@ -13,3 +13,8 @@ In general, you can see the model in the next image:
 
 Do not panic! Hahaha, it is simpler than it looks, it is the model of a complex perceptron A.K.A multilayer perceptron. The diference between the multilayer perceptron and the simple perceptron are the number of inputs and weights, a simple perceptron has only two inputs, and one weight for each input, and the multilayer has more than two inputs/weights.
 The weight is the matter of a input, you can see it how a... In the icecream, it matters more the flavor than the color, for a IA, the flavor has more weight than the color, can you understand? The input is only a value, this input can be added by any way, for example, the camera, the input of a shell, and a lot of other cases.
+Another elements of the model are the transfer function and the activation function, one each time:
+
+## The transfer function
+
+![The transfer function](https://imgur.com/a/vAx8C)
