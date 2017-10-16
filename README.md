@@ -17,4 +17,4 @@ Another elements of the model are the transfer function and the activation funct
 
 ## The transfer function
 
-![The transfer function](https://imgur.com/a/vAx8C)
+![The transfer function](https://i.imgur.com/SvLtchK.gif)
