@@ -4,9 +4,9 @@ class neuron:
     self.input1 = input1
     self.weight0 = weight0
     self.weight1 = weight1
-  def transferFunction():
+  def transferFunction(self):
     #The transfer function definition
-  def activationFunction(transferFunctionValue):
+  def activationFunction(self, transferFunctionValue):
     if transferFunctionValue < umbral:
       return 0
     else:
