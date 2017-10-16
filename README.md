@@ -22,12 +22,12 @@ This is an expression that explain mathematically the transfer function.
 
 ![The transfer function](https://i.imgur.com/SvLtchK.gif)
 
-For you, this means that each input is multiplied for its weight, after, the product of the multiplication is added to the other product of the other input... This value is really important, remind it like the "transfer function value", i will sumamarize the "transfer function value" as "t", it for simplify the notation of the activation function.
+For you, this means that each input is multiplied for its weight, after, the product of the multiplication is added to the other product of the other input... This value is really important, remind it like the "transfer function value", i will sumamarize the "transfer function value" as "s", it for simplify the notation of the activation function.
 
 Now, the another part (the last part for now) of a perceptron is the...
 
 # The activation function
-This is an expression that explain mathematically the activation function, like the case of the transfer function, i will traduce it, remind the "transfer function value" as "t", okey?
+This is an expression that explain mathematically the activation function, like the case of the transfer function, i will traduce it, remind the "transfer function value" as "s", okey?
 
 ![The activation function](https://imgur.com/3pNWyy5.gif)
 
