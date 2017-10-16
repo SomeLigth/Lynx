@@ -15,9 +15,6 @@ Do not panic! Hahaha, it is simpler than it looks, it is the model of a complex 
 The weight is the matter of a input, you can see it like a... In the icecream, it matters more the flavor than the color, for a IA, the flavor has more weight than the color, can you understand? The input is only a value, this input can be added by any way, for example, the camera, the input of a shell, and a lot of other cases.
 Another elements of the model are the transfer function and the activation function, one each time:
 
-#Test
-##Test
-###Test
 # The transfer function
 How you told me that you do not like mathematics, i take the opportunity to explain you the mathematics parts of the info that nobody explain but all have.
 
