@@ -15,6 +15,9 @@ Do not panic! Hahaha, it is simpler than it looks, it is the model of a complex 
 The weight is the matter of a input, you can see it like a... In the icecream, it matters more the flavor than the color, for a IA, the flavor has more weight than the color, can you understand? The input is only a value, this input can be added by any way, for example, the camera, the input of a shell, and a lot of other cases.
 Another elements of the model are the transfer function and the activation function, one each time:
 
+# By the way
+One of the most important pieces of the neuron is the weight. The weight is the cornerstone of the process of auto-calibration of the perceptron, it is the variable that change in every iteration of the neuron process, is necesary that you know it to understand better this algorithm.
+
 # The transfer function
 How you told me that you do not like mathematics, i take the opportunity to explain you the mathematics parts of the info that nobody explain but all have.
 
@@ -33,7 +36,5 @@ This is an expression that explain mathematically the activation function, like 
 
 This means that the perceptron (the phi symbol) has only two ouputs, 1 if the output value of the transfer function is greater than the umbral (the theta symbol), the umbral are the value that serve like a margin or a line, to explain easily, you can see it like when you touch a object, if the object is cold, you can say "Oh, that cold!" and is the object is hot, you can say "Oh, is hot!", for the IA, the umbral are that line between the cold and the hot, if the object is hot, he touch it and the perceptron has a output of 1 (the umbral were passed), if he touch it and the object is cold, the perceptron has a output of 0 (the umbral were not passed), or, if you configure another thing, the perceptron can react to the cold with a 1, and to the hot with a 0.
 
-# Finally
-that is how work a perceptron (really, the explainnation work with another cases), if all for now, if you have a doubt, write me to the faceboook.
-
-P.S: Sorry if something is not really that i not want mean, remind that i am not a native speaker. Hahaha.
+# Upgrade 20/10/2017
+The main file was uploaded, you can see it in the "Source" directory
